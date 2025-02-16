@@ -1,0 +1,17 @@
+Factory Pattern Questions:
+---------------------------------
+
+    1) E-commerce Payment System:
+    An online shopping platform allows customers to pay using different payment methods (Credit Card, PayPal, Bitcoin). Implement a Factory Method to return the appropriate payment processor based on the user's choice. [Solved Already]
+
+    2) Social Media Post Creation:
+    A social media platform supports different types of posts (Text, Image, Video). Implement a Factory Pattern that returns the correct type of post object based on the user’s selection.
+
+    3) Vehicle Manufacturing System:
+    A car manufacturing company produces different types of vehicles (Sedan, SUV, Truck). Use the Factory Pattern to generate vehicle objects based on customer orders.
+
+    4) Notification System:
+    A mobile application sends notifications to users via different methods (SMS, Email, Push Notification). Implement a Factory Pattern that creates and sends the appropriate notification based on user preference.
+
+    5) Document Converter:
+    A file conversion system allows users to convert documents into different formats (PDF, DOCX, TXT). Implement a Factory Method that selects the correct converter based on the requested output format.

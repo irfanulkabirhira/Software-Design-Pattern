@@ -1,0 +1,16 @@
+## Singleton Pattern Questions:
+
+    1) Database Connection Pool:
+    A web application requires a single instance of a database connection to ensure efficient resource management. Implement the Singleton Pattern to maintain a single connection pool.
+
+    2) Logging System:
+    A software application logs errors, warnings, and debug information. Implement a Singleton-based Logger class that ensures all logs are stored in a single log file.
+
+    3) Cache Management System:
+    A web service uses a cache to store frequently accessed data. Implement a Singleton Pattern to maintain a single instance of a cache manager.
+
+    4) Printer Spooler System:
+    In a networked environment, multiple users send print requests. Implement a Singleton-based Print Spooler that queues print jobs and processes them one by one.
+
+    5) Game Score Tracker:
+    A multiplayer online game requires a global scoreboard to track the highest scores. Implement a Singleton-based ScoreTracker to manage and update scores.
