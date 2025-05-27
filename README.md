@@ -1,1 +1,1 @@
-![image alt](https://github.com/irfanulkabirhira/All-Machine-Learning-Algorithm-Applied-to-Bank-Data/blob/7caf331d323219c087db4ef971d162a0517e1f7a/model_comparison%20(2).png)
+![image alt](https://github.com/irfanulkabirhira/Software-Design-Pattern/blob/0aa60b59979955a4d9f4dbfe28bb19fcd8a1bc9a/Final.jpg)
