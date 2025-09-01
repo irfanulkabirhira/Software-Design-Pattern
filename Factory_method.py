@@ -21,8 +21,12 @@ class Triangle(Shape):
 
 # step 3: Create a Factory to generate objects of concrete class
 class ShapeFactory:
+    available_items = ["Rectangle", "Circle", "Triangle"]
     @staticmethod
     def get_shape(shape_type):
+        if shape_type not in ShapeFactory.available_items:
+            return None
+        
         if shape_type == "Rectangle":
             return Rectangle()
         elif shape_type == "Circle":
