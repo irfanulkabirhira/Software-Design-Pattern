@@ -30,6 +30,9 @@ class Restaurant:
     def place_order(self, order):
         if order not in self.orders:
             self.orders.append(order)
+            print("The order has been placed thank you !!")
+        else :
+            print("Sorry , the order is already placed !!! sir")
 
     # Showing the orders
     def show_orders(self):
